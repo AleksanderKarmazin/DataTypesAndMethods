@@ -1,7 +1,5 @@
-# Типы данных
-
-https://developer.mozilla.org/ru/docs/Web/JavaScript/Data_structures
-
+# Типы данных https://developer.mozilla.org/ru/docs/Web/JavaScript/Data_structures
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects
 
 6 типов данных являющихся примитивами:
 1)        Undefined (Неопределённый тип)  : typeof instance === "undefined"
