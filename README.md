@@ -6,8 +6,8 @@ https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects
 https://developer.mozilla.org/ru/docs/Web/JavaScript
 # Начало работы с Вебом
 https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web
-
-
+# ES 11
+https://262.ecma-international.org/11.0/
 
 6 типов данных являющихся примитивами:
 1)        Undefined (Неопределённый тип)  : typeof instance === "undefined"
